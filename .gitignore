@@ -1,0 +1,21 @@
+#package folder
+node_modules/
+
+#vscode
+.vscode
+
+#files to multer
+tmp/*
+!tmp/.gitkeep
+
+#enviroments
+.env
+
+#Tests -  disable to studies
+#corevare
+
+#DB -  disable to studies
+ormconfig.json
+
+#Building files
+dist/
